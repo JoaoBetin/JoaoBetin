@@ -8,7 +8,7 @@
 
 <h3>🧠 Sobre mim</h3>
 <ul>
-<li>👨‍💻 Atualmente busco aumentar meus conhecimentos em desenvolvimento de software.</li>
+<li>👨‍💻 Atualmente estou aumentando meus conhecimentos em desenvolvimento de software.</li>
 <li>📚 Cursando o 4º semestre de Engenharia de Software.</li>
 <li>🧩 Aprendendo <b>C++</b>, <b>C</b>, <b>Java</b>, <b>PostgreSQL</b> e <b>Git/GitHub</b>.</li>
 <li>💬 Busco oportunidades para demonstrar meus conhecimentos.</li>
