@@ -28,8 +28,4 @@
 
 <h3>🌟 Projetos</h3>
 <p>Confira alguns dos meus projetos recentes! Cada um representa um novo desafio e um passo no meu aprendizado 🚀</p>
-    <td align="center" style="vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/JoaoBetin/JoaoBetin/main/software-engineer.png" width="450"/>
-    </td>
-  </tr>
 </table>
