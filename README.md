@@ -2,11 +2,11 @@
   <tr>
     <td>
 
-<h1>👋 Olá, eu sou João Filipe Betin</h1>
-<p>🎓 Estudante de Engenharia de Software na <b>UNAERP - Ribeirão Preto/SP</b><br>
+<h1>Olá, eu sou João Filipe Betin</h1>
+<p>Estudante de Engenharia de Software na <b>UNAERP - Ribeirão Preto/SP</b><br>
 💡 Sempre buscando novos desafios e aprendizados.</p>
 
-<h3>🧠 Sobre mim</h3>
+<h3>Sobre mim</h3>
 <ul>
 <li>👨‍💻 Atualmente estou aumentando meus conhecimentos em desenvolvimento de software.</li>
 <li>📚 Cursando o 4º semestre de Engenharia de Software.</li>
