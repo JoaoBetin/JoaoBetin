@@ -6,15 +6,6 @@
 <p>Estudante de Engenharia de Software na <b>UNAERP - Ribeirão Preto/SP</b><br>
 💡 Sempre buscando novos desafios e aprendizados.</p>
 
-<h3>Sobre mim</h3>
-<ul>
-<li>👨‍💻 Atualmente estou aumentando meus conhecimentos em desenvolvimento de software.</li>
-<li>📚 Cursando o 4º semestre de Engenharia de Software.</li>
-<li>🧩 Aprendendo <b>C++</b>, <b>C</b>, <b>Java</b>, <b>PostgreSQL</b> e <b>Git/GitHub</b>.</li>
-<li>💬 Busco oportunidades para demonstrar meus conhecimentos.</li>
-<li>📫 Contato: <b>betinjoao2@gmail.com</b></li>
-</ul>
-
 <h3>🛠️ Tecnologias & Ferramentas</h3>
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
